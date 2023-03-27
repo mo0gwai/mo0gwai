@@ -42,6 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mo0gwai/mo0gwai/blob/output/snake.svg" alt="Snake animation" />
-
 ###
