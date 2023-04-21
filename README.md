@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <a href="mo0gwai@proton.me" target="_blank">
+  <a href="mailto:mo0gwai@proton.me" >
     <img src="https://github.com/ProtonMail/proton-bridge/blob/master/dist/raw/win%2Blin_icon_256x256.svg" height="30" width="42"  alt="protonmail logo" />
   </a>
 </div>
