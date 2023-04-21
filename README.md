@@ -11,6 +11,7 @@
 
 ###
 
+<h3 align="center">Used on a daily</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
@@ -24,11 +25,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/0scar_zeta_ac0sta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="gyula.f91@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mo0gwai@proton.me" target="_blank">
+    <img src="https://github.com/ProtonMail/proton-bridge/blob/master/dist/raw/win%2Blin_icon_256x256.svg" height="30" width="42"  alt="protonmail logo" />
   </a>
 </div>
 
