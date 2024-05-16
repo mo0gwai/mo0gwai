@@ -1,0 +1,202 @@
+{
+    "Field": [{
+            "FieldName": "KONTIERUNG",
+            "ReadOnly": false,
+            "SystemField": false,
+            "ItemElementName": "Table",
+            "PointAndShootInfo": null,
+            "IsAutoNumber": false,
+            "IsNull": false,
+            "Item": {
+                "$type": "DocumentIndexFieldTable",
+                "Row": [{
+                        "ColumnValue": [{
+                                "FieldName": "KONTI_NETTOBETRAG",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "Decimal",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "23,12",
+                                "FieldValue": "23,12"
+                            }, {
+                                "FieldName": "KONTI_UST_SCHLUSSEL",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "String",
+                                "PointAndShootInfo": null,
+                                "Item": "V0 - ALLE Kein Steuervorgang 24 ",
+                                "FieldValue": "V0 - ALLE Kein Steuervorgang 24"
+                            }, {
+                                "FieldName": "KONTI_UST_BETRAG",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "Decimal",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "004934556601042 25",
+                                "FieldValue": "004934556601042 25"
+                            }, {
+                                "FieldName": "KONTI_BRUTTO_BETRAG",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "Decimal",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "be.care Test aus JR Aufruf 23",
+                                "FieldValue": "be.care Test aus JR Aufruf 23"
+                            }, {
+                                "FieldName": "KONTI_LEISTUNGSBEZUGSDATUM",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "DateTime",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": -2024,
+                                "FieldValue": "004934556601042 25"
+                            }, {
+                                "FieldName": "KONTI_BUGDETPOSITIONSTYP",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "String",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "004934556601042 25",
+                                "FieldValue": "004934556601042 25"
+                            }
+                        ]
+                    }, {
+                        "ColumnValue": [{
+                                "FieldName": "KONTI_NETTOBETRAG",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "Decimal",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "23,12",
+                                "FieldValue": "23,12"
+                            }, {
+                                "FieldName": "KONTI_UST_SCHLUSSEL",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "String",
+                                "PointAndShootInfo": null,
+                                "Item": "V0 - ALLE Kein Steuervorgang 24 ",
+                                "FieldValue": "V0 - ALLE Kein Steuervorgang 24"
+                            }, {
+                                "FieldName": "KONTI_UST_BETRAG",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "Decimal",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "004934556601042 25",
+                                "FieldValue": "004934556601042 25"
+                            }, {
+                                "FieldName": "KONTI_BRUTTO_BETRAG",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "Decimal",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "be.care Test aus JR Aufruf 23",
+                                "FieldValue": "be.care Test aus JR Aufruf 23"
+                            }, {
+                                "FieldName": "KONTI_LEISTUNGSBEZUGSDATUM",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "DateTime",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": -2024,
+                                "FieldValue": "004934556601042 25"
+                            }, {
+                                "FieldName": "KONTI_BUGDETPOSITIONSTYP",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "String",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "004934556601042 25",
+                                "FieldValue": "004934556601042 25"
+                            }
+                        ]
+                    }, {
+                        "ColumnValue": [{
+                                "FieldName": "KONTI_NETTOBETRAG",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "Decimal",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "23,12",
+                                "FieldValue": "23,12"
+                            }, {
+                                "FieldName": "KONTI_UST_SCHLUSSEL",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "String",
+                                "PointAndShootInfo": null,
+                                "Item": "V0 - ALLE Kein Steuervorgang 24 ",
+                                "FieldValue": "V0 - ALLE Kein Steuervorgang 24"
+                            }, {
+                                "FieldName": "KONTI_UST_BETRAG",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "Decimal",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "004934556601042 25",
+                                "FieldValue": "004934556601042 25"
+                            }, {
+                                "FieldName": "KONTI_BRUTTO_BETRAG",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "Decimal",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "be.care Test aus JR Aufruf 23",
+                                "FieldValue": "be.care Test aus JR Aufruf 23"
+                            }, {
+                                "FieldName": "KONTI_LEISTUNGSBEZUGSDATUM",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "DateTime",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": -2024,
+                                "FieldValue": "004934556601042 25"
+                            }, {
+                                "FieldName": "KONTI_BUGDETPOSITIONSTYP",
+                                "ReadOnly": false,
+                                "SystemField": false,
+                                "ItemElementName": "String",
+                                "PointAndShootInfo": null,
+                                "IsAutoNumber": false,
+                                "IsNull": false,
+                                "Item": "004934556601042 25",
+                                "FieldValue": "004934556601042 25"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "DialogId": "i_dc71012a-ecc8-4cde-8641-d13bb54b0b64",
+    "NormalizeCoordinates": true
+}
